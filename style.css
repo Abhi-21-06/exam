@@ -1,0 +1,24 @@
+.row{
+   
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px; 
+}
+
+.col{
+    width: 100px;
+    height: 150px;
+    background-color: beige;
+    /* display: flex;
+    justify-content: space-between; */
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+    margin: 20px;
+}
+
+h4{
+    padding-top: 15px;
+}
